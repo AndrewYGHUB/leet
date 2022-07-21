@@ -20,8 +20,8 @@ Complete solutions to [LeetCode](https://leetcode.com/problemset/all/), [LCOF](h
 
 ## Sites
 
--   Vercel: https://doocs-leetcode.vercel.app
--   GitHub Pages: https://doocs.github.io/leetcode
+
+-   GitHub Pages: https://andrewyghub.github.io/leet/index.html
 
 ## Solutions
 
